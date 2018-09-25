@@ -2,7 +2,7 @@
 
 ## Author
 
-
+David Barnes
 
 ## Description
 
@@ -110,12 +110,9 @@ Suggestion/Hints:
 
 ## Outside Resources Used
 
-<<<<<<< HEAD
-## Known Problems, Issues, And/Or Errors in the Program
-=======
-
+None.
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
+None.
 
->>>>>>> 20857b4... Update README.
